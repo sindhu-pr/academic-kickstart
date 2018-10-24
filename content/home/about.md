@@ -28,6 +28,4 @@ weight = 5
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am a PhD student in Computer Science at the Stochastic Systems Lab. My research interest lies in the area of Reinforcement Learning (RL). RL is a framework for problems involving sequential decision making (e.g., Chess, Traffic Signal Control, Robot Navigation) in the face of uncertainty. Such problems arise in a number of domains, wherever decisions need to be made sequentially and there is a cost or reward associated with every decision. RL theory is developed on the Markov Decision Process (MDP) and Dynamic Programming framework. My work involves developing new methods for RL and use it for solving exciting and complex problems in Cyber-Physical Systems, energy harvesting sensor networks and renewable energy systems. 
