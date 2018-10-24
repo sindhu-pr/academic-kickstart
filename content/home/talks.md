@@ -21,7 +21,7 @@ list_format = 2
 
 1. First item
 2. Another item
-
+[I'm an inline-style link](https://www.google.com)
 # Exclude talks that are shown in the Selected Talks widget?
 exclude_selected = false
 +++
