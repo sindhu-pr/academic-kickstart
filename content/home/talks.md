@@ -19,6 +19,9 @@ count = 10
 #   2 = Stream
 list_format = 2
 
+1. First item
+2. Another item
+
 # Exclude talks that are shown in the Selected Talks widget?
 exclude_selected = false
 +++
