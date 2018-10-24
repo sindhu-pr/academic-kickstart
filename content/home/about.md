@@ -9,19 +9,19 @@ weight = 5
 
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
+#[[education.courses]]
   course = "PhD in Artificial Intelligence"
   institution = "Stanford University"
   year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MSc(Engg.) in Computer Science"
+  institution = "Indian Institute of Science"
+  year = 2015
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "BE in Computer Science"
+  institution = "PES Institute of Technology"
   year = 2008
  
 +++
